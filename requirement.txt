@@ -1,5 +1,7 @@
 numpy==1.21.6
 pickle5==0.0.12
+Pillow
+pycaret
 streamlit==1.23.1
-streamlit_option_menu==0.3.6
-scikit-learn==0.22.1
+streamlit-option-menu==0.3.6
+scikit-learn==1.0.2
